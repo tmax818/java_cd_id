@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"FundamentalsDay01.Assignments.FirstJavaProgram"},{"l":"FundamentalsDay01.Reading.HelloWorld"},{"l":"FundamentalsDay01.Reading.HowDoesJavaWork"},{"l":"FundamentalsDay01.Reading.Variables"},{"l":"FundamentalsDay01.Reading.WhyJava"}]
