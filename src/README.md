@@ -2,15 +2,15 @@
 
 Java Fundamentals
 
-| week | day | assignment             | type     |
-|------|-----|:-----------------------|----------|
-| 1    | Mon | First Java Program     | Practice |
-| 1    | Mon | Cafe Java              | Practice |
-| 1    | Mon | 	Alfred Bot	           | Practice |
-| 1    | Mon | 	Cafe Business Logic	  | Core     |
-| 1    | Mon | 	Puzzling	             | Practice |
-| 1    | Mon | 	Map of Hashmatique	   | Practice |
-| 1    | Mon | 	List of Exceptions	   | Optional |
+| week | day | assignment           | type     |
+|------|-----|:---------------------|----------|
+| 1    | Mon | First Java Program   | Practice |
+| 1    | Mon | Cafe Java            | Practice |
+| 1    | Mon | Alfred Bot           | Practice |
+| 1    | Mon | Cafe Business Logic	 | Core     |
+| 1    | Mon | Puzzling             | Practice |
+| 1    | Mon | Map of Hashmatique	  | Practice |
+| 1    | Mon | List of Exceptions	  | Optional |
 
 Java OOP
 
