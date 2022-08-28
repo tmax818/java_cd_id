@@ -2,20 +2,30 @@
 
 Java Fundamentals (Day 1)
 
-| week | day | assignment                                                                                   | type     |
-|------|-----|:---------------------------------------------------------------------------------------------|----------|
-| 1    | Mon | [Why Java?](src/FundamentalsDay01/Reading/WhyJava/WhyJava.md)                                | Reading  |
-| 1    | Mon | [How Does Java Work?](src/FundamentalsDay01/Reading/HowDoesJavaWork/HowDoesJavaWork.java)    | Reading  |
-| 1    | Mon | [Hello World](src/FundamentalsDay01/Reading/HelloWorld/Test.java)                            | Reading  |
-| 1    | Mon | [First Java Program](src/FundamentalsDay01/Assignments/FirstJavaProgram/README.md)           | Practice |
-| 1    | Mon | [Variables](src/FundamentalsDay01/Reading/Variables/Variables.java)                          | Reading  |
-| 1    | Mon | [Conditionals & Operators](src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md) | Reading  |
-| 1    | Mon | Cafe Java                                                                                    | Practice |
-| 1    | Mon | Alfred Bot                                                                                   | Practice |
-| 1    | Mon | Cafe Business Logic	                                                                         | Core     |
-| 1    | Mon | Puzzling                                                                                     | Practice |
-| 1    | Mon | Map of Hashmatique	                                                                          | Practice |
-| 1    | Mon | List of Exceptions	                                                                          | Optional |
+| week | day | assignment                                                                                                | type     |
+|------|-----|:----------------------------------------------------------------------------------------------------------|----------|
+| 1    | Mon | [Why Java?](src/FundamentalsDay01/Reading/WhyJava/WhyJava.md)                                             | Reading  |
+| 1    | Mon | [How Does Java Work?](src/FundamentalsDay01/Reading/HowDoesJavaWork/HowDoesJavaWork.java)                 | Reading  |
+| 1    | Mon | [Hello World](src/FundamentalsDay01/Reading/HelloWorld/Test.java)                                         | Reading  |
+| 1    | Mon | [First Java Program](src/FundamentalsDay01/Assignments/FirstJavaProgram/README.md)                        | Practice |
+| 1    | Mon | [Variables](src/FundamentalsDay01/Reading/Variables/Variables.java)                                       | Reading  |
+| 1    | Mon | [Conditionals & Operators](src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md)              | Reading  |
+| 1    | Mon | [Switch Statement & Ternary Operators](src/FundamentalsDay01/Reading/SwitchAndTernaryOperators/README.md) | Reading  |
+| 1    | Mon | [Cafe Java](src/FundamentalsDay01/Assignments/CafeJava/README.md)                                         | Practice |
+| 1    | Mon | [Strings](src/FundamentalsDay01/Reading/Strings/Strings.java)                                             | Reading  |
+| 1    | Mon | [Methods](src/FundamentalsDay01/Reading/Methods/Methods.java)                                             | Reading  |
+| 1    | Mon | [Modularization](src/FundamentalsDay01/Reading/Modularization/Modularization.java)                        | Reading  |
+| 1    | Mon | [Alfred Bot](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                                       | Practice |
+| 1    | Mon | [Type Casting](src/FundamentalsDay01/Reading/TypeCasting/TypeCasting.java)                                | Reading  |
+| 1    | Mon | [Fixed Arrays](src/FundamentalsDay01/Reading/FixedArrays/FixedArrays.java)                                | Reading  |
+| 1    | Mon | [ArrayLists (Dynamic Arrays)](src/FundamentalsDay01/Reading/ArrayLists/ArrayLists.java)                   | Reading  |
+| 1    | Mon | [Loops](src/FundamentalsDay01/Reading/Loops/Loops.java)                                                   | Reading  |
+| 1    | Mon | [Cafe Business Logic](src/FundamentalsDay01/Assignments/CafeBusinessLogic/README.md)	                     | Core     |
+| 1    | Mon | [Puzzling](src/FundamentalsDay01/Assignments/Puzzling/README.md)                                          | Practice |
+| 1    | Mon | [Maps](src/FundamentalsDay01/Reading/Maps/Maps.java)                                                      | Reading  |
+| 1    | Mon | [Map of Hashmatique](src/FundamentalsDay01/Assignments/MapOfHashmatique/README.md)	                       | Practice |
+| 1    | Mon | [Exceptions](src/FundamentalsDay01/Reading/Exceptions/Exceptions.java)                                    | Reading  |
+| 1    | Mon | [List of Exceptions](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                               | Optional |
 
 Java OOP
 
