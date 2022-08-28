@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="third commit">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/CafeJava/CafeJava.java" afterDir="false" />
+    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="add cafejava">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661555294890</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add cafejava">
+      <created>1661706663782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661706663782</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +139,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="add cafejava" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cafejava" />
   </component>
 </project>
