@@ -1,0 +1,1 @@
+# [Inheritance](https://login.codingdojo.com/m/315/9381/64444)

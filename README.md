@@ -42,16 +42,18 @@ Java OOPDay02
 | 1    | Tue | [Barista's Challenge](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                           | Practice |
 | 1    | Tue | [Static](src/OOPDay02/Reading/Static/README.md)                                                        |  Reading |
 | 1    | Tue | [Bank Account](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                  |     Core |
-| 1    | Tue | [Coffeedore 64]()	                                                                                     | Practice |
+| 1    | Tue | [Coffeedore 64](src/OOPDay02/Assignments/Coffeedore64/README.md)	                                      | Practice |
 
 Java OOPDay02 Advanced
 
-| week | day | assignment           |     type |
-|------|----:|----------------------|---------:|
-| 1    | Wed | Zoo Keeper I	        | Practice |
-| 1    | Wed | Zoo Keeper II	       |     Core |
-| 1    | Wed | CareSoft Interfaces	 |     Core |
-| 1    | Wed | Abstract Art 	       | Optional |
+| week | day | assignment                                                                          |     type |
+|------|----:|-------------------------------------------------------------------------------------|---------:|
+| 1    | Tue | [Spring Tools Suite (STS)](src/AdvancedOOPDay03/Reading/SpringToolsSuite/README.md) |  Reading |
+| 1    | Tue | [Packages](src/AdvancedOOPDay03/Reading/Packages/README.md)                         |  Reading |
+| 1    | Wed | [Zoo Keeper I](src/AdvancedOOPDay03/Assignments/ZooKeeperI/README.md)	              | Practice |
+| 1    | Wed | [Zoo Keeper II](src/AdvancedOOPDay03/Assignments/ZooKeeperII/README.md)	            |     Core |
+| 1    | Wed | CareSoft Interfaces	                                                                |     Core |
+| 1    | Wed | Abstract Art 	                                                                      | Optional |
 
 OOPDay02 Hackathon
 
