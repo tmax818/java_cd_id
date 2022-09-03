@@ -12,7 +12,7 @@ Java Fundamentals
 | 1    | Mon | Map of Hashmatique	  | Practice |
 | 1    | Mon | List of Exceptions	  | Optional |
 
-Java OOP
+Java OOPDay02
 
 | week | day | assignment           |     type |
 |------|----:|:---------------------|---------:|
@@ -21,7 +21,7 @@ Java OOP
 | 1    | Tue | Bank Account	        |     Core |
 | 1    | Tue | Coffeedore 64	       | Practice |
 
-Java OOP Advanced
+Java OOPDay02 Advanced
 
 | week | day | assignment           |     type |
 |------|----:|----------------------|---------:|
@@ -30,11 +30,11 @@ Java OOP Advanced
 | 1    | Wed | CareSoft Interfaces	 |     Core |
 | 1    | Wed | Abstract Art 	       | Optional |
 
-OOP Hackathon
+OOPDay02 Hackathon
 
 | week | day | assignment          |     type |
 |------|----:|---------------------|---------:|
-| 1    | Thu | OOP Hackathon	      | Optional |
+| 1    | Thu | OOPDay02 Hackathon	      | Optional |
 | 1    | Thu | Calculator I        | Optional |
 | 1    | Thu | Calculator II 	     | Optional |
 | 1    | Thu | Singly Linked List	 | Optional |

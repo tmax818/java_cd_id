@@ -27,16 +27,24 @@ Java Fundamentals (Day 1)
 | 1    | Mon | [Exceptions](src/FundamentalsDay01/Reading/Exceptions/Exceptions.java)                                    | Reading  |
 | 1    | Mon | [List of Exceptions](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                               | Optional |
 
-Java OOP
+Java OOPDay02
 
-| week | day | assignment           |     type |
-|------|----:|:---------------------|---------:|
-| 1    | Tue | Orders & Items	      | Practice |
-| 1    | Tue | Barista's Challenge	 | Practice |
-| 1    | Tue | Bank Account	        |     Core |
-| 1    | Tue | Coffeedore 64	       | Practice |
+| week | day | assignment                                                                                             |     type |
+|------|----:|:-------------------------------------------------------------------------------------------------------|---------:|
+| 1    | Tue | [Overview](src/OOPDay02/Reading/Overview/README.md)                                                    |  Reading |
+| 1    | Tue | [Objects and Classes](src/OOPDay02/Reading/ObjectsAndClasses/README.md)                                |  Reading |
+| 1    | Tue | [Member Variables](src/OOPDay02/Reading/MemberVariables/README.md)                                     |  Reading |
+| 1    | Tue | [Orders & Items](src/OOPDay02/Assignments/OrdersAndItems/README.md)	                                   | Practice |
+| 1    | Tue | [Getters, Setters & Access Modifiers](src/OOPDay02/Reading/GettersSettersAndAccessModifiers/README.md) |  Reading |
+| 1    | Tue | [Constructors & Overloading](src/OOPDay02/Reading/ConstructorsAndOverloading/README.md)                |  Reading |
+| 1    | Tue | [this](src/OOPDay02/Reading/this/README.md)                                                            |  Reading |
+| 1    | Tue | [More on Methods](src/OOPDay02/Reading/MoreOnMethods/README.md)                                        |  Reading |
+| 1    | Tue | [Barista's Challenge](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                           | Practice |
+| 1    | Tue | [Static](src/OOPDay02/Reading/Static/README.md)                                                        |  Reading |
+| 1    | Tue | [Bank Account](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                  |     Core |
+| 1    | Tue | [Coffeedore 64]()	                                                                                     | Practice |
 
-Java OOP Advanced
+Java OOPDay02 Advanced
 
 | week | day | assignment           |     type |
 |------|----:|----------------------|---------:|
@@ -45,11 +53,11 @@ Java OOP Advanced
 | 1    | Wed | CareSoft Interfaces	 |     Core |
 | 1    | Wed | Abstract Art 	       | Optional |
 
-OOP Hackathon
+OOPDay02 Hackathon
 
 | week | day | assignment          |     type |
 |------|----:|---------------------|---------:|
-| 1    | Thu | OOP Hackathon	      | Optional |
+| 1    | Thu | OOPDay02 Hackathon	      | Optional |
 | 1    | Thu | Calculator I        | Optional |
 | 1    | Thu | Calculator II 	     | Optional |
 | 1    | Thu | Singly Linked List	 | Optional |
@@ -97,7 +105,7 @@ Spring Data II
 
 | week | day | assignment         | type     |
 |------|----:|--------------------|----------|
-| 2    | Thu | Dojos and Ninjas   | Core     |
+| 2    | Thu | Dojos on Ninjas    | Core     |
 | 2    | Thu | Student Roster 1:n | Optional |
 
 Login and Registration
