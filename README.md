@@ -52,6 +52,7 @@ Java OOPDay02 Advanced  (Day 3)
 | 1    | Tue | [Packages](src/AdvancedOOPDay03/Reading/Packages/README.md)                         |  Reading |
 | 1    | Wed | [Zoo Keeper I](src/AdvancedOOPDay03/Assignments/ZooKeeperI/README.md)	              | Practice |
 | 1    | Wed | [Zoo Keeper II](src/AdvancedOOPDay03/Assignments/ZooKeeperII/README.md)	            |     Core |
+| 1    | Tue | [Spring Tools Suite (STS)](src/AdvancedOOPDay03/Reading/SpringToolsSuite/README.md) |  Reading |
 | 1    | Wed | CareSoft Interfaces	                                                                |     Core |
 | 1    | Wed | Abstract Art 	                                                                      | Optional |
 
@@ -59,7 +60,7 @@ OOPDay02 Hackathon
 
 | week | day | assignment          |     type |
 |------|----:|---------------------|---------:|
-| 1    | Thu | OOPDay02 Hackathon	      | Optional |
+| 1    | Thu | OOPDay02 Hackathon	 | Optional |
 | 1    | Thu | Calculator I        | Optional |
 | 1    | Thu | Calculator II 	     | Optional |
 | 1    | Thu | Singly Linked List	 | Optional |
