@@ -27,7 +27,7 @@ Java Fundamentals (Day 1)
 | 1    | Mon | [Exceptions](src/FundamentalsDay01/Reading/Exceptions/Exceptions.java)                                    | Reading  |
 | 1    | Mon | [List of Exceptions](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                               | Optional |
 
-Java OOPDay02
+Java OOPDay02 (Day 2)
 
 | week | day | assignment                                                                                             |     type |
 |------|----:|:-------------------------------------------------------------------------------------------------------|---------:|
@@ -44,7 +44,7 @@ Java OOPDay02
 | 1    | Tue | [Bank Account](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                  |     Core |
 | 1    | Tue | [Coffeedore 64](src/OOPDay02/Assignments/Coffeedore64/README.md)	                                      | Practice |
 
-Java OOPDay02 Advanced
+Java OOPDay02 Advanced  (Day 3)
 
 | week | day | assignment                                                                          |     type |
 |------|----:|-------------------------------------------------------------------------------------|---------:|
