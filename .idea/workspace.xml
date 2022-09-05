@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="add cafejava">
+    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="add from windows">
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/AlfredBot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/FixedArrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Modularization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Strings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/TypeCasting/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/HowDoesJavaWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/WhyJava.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661706663782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add from windows">
+      <created>1662256584540</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662256584540</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +212,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="add cafejava" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cafejava" />
+    <MESSAGE value="add from windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="add from windows" />
   </component>
 </project>

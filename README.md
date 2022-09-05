@@ -4,8 +4,8 @@ Java Fundamentals (Day 1)
 
 | week | day | assignment                                                                                                | type     |
 |------|-----|:----------------------------------------------------------------------------------------------------------|----------|
-| 1    | Mon | [Why Java?](src/FundamentalsDay01/Reading/WhyJava/WhyJava.md)                                             | Reading  |
-| 1    | Mon | [How Does Java Work?](src/FundamentalsDay01/Reading/HowDoesJavaWork/HowDoesJavaWork.java)                 | Reading  |
+| 1    | Mon | [Why Java?](src/FundamentalsDay01/Reading/WhyJava/README.md)                                              | Reading  |
+| 1    | Mon | [How Does Java Work?](src/FundamentalsDay01/Reading/HowDoesJavaWork/README.md)                            | Reading  |
 | 1    | Mon | [Hello World](src/FundamentalsDay01/Reading/HelloWorld/Test.java)                                         | Reading  |
 | 1    | Mon | [First Java Program](src/FundamentalsDay01/Assignments/FirstJavaProgram/README.md)                        | Practice |
 | 1    | Mon | [Variables](src/FundamentalsDay01/Reading/Variables/Variables.java)                                       | Reading  |
@@ -14,18 +14,18 @@ Java Fundamentals (Day 1)
 | 1    | Mon | [Cafe Java](src/FundamentalsDay01/Assignments/CafeJava/README.md)                                         | Practice |
 | 1    | Mon | [Strings](src/FundamentalsDay01/Reading/Strings/Strings.java)                                             | Reading  |
 | 1    | Mon | [Methods](src/FundamentalsDay01/Reading/Methods/Methods.java)                                             | Reading  |
-| 1    | Mon | [Modularization](src/FundamentalsDay01/Reading/Modularization/Modularization.java)                        | Reading  |
+| 1    | Mon | [Modularization](src/FundamentalsDay01/Reading/Modularization/README.md)                                  | Reading  |
 | 1    | Mon | [Alfred Bot](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                                       | Practice |
-| 1    | Mon | [Type Casting](src/FundamentalsDay01/Reading/TypeCasting/TypeCasting.java)                                | Reading  |
-| 1    | Mon | [Fixed Arrays](src/FundamentalsDay01/Reading/FixedArrays/FixedArrays.java)                                | Reading  |
-| 1    | Mon | [ArrayLists (Dynamic Arrays)](src/FundamentalsDay01/Reading/ArrayLists/ArrayLists.java)                   | Reading  |
+| 1    | Mon | [Type Casting](src/FundamentalsDay01/Reading/TypeCasting/README.md)                                       | Reading  |
+| 1    | Mon | [Fixed Arrays](src/FundamentalsDay01/Reading/FixedArrays/README.md)                                       | Reading  |
+| 1    | Mon | [ArrayLists (Dynamic Arrays)](src/FundamentalsDay01/Reading/ArrayLists/README.md)                         | Reading  |
 | 1    | Mon | [Loops](src/FundamentalsDay01/Reading/Loops/Loops.java)                                                   | Reading  |
 | 1    | Mon | [Cafe Business Logic](src/FundamentalsDay01/Assignments/CafeBusinessLogic/README.md)	                     | Core     |
 | 1    | Mon | [Puzzling](src/FundamentalsDay01/Assignments/Puzzling/README.md)                                          | Practice |
 | 1    | Mon | [Maps](src/FundamentalsDay01/Reading/Maps/Maps.java)                                                      | Reading  |
 | 1    | Mon | [Map of Hashmatique](src/FundamentalsDay01/Assignments/MapOfHashmatique/README.md)	                       | Practice |
 | 1    | Mon | [Exceptions](src/FundamentalsDay01/Reading/Exceptions/Exceptions.java)                                    | Reading  |
-| 1    | Mon | [List of Exceptions](src/FundamentalsDay01/Assignments/AlfredBot/README.md)                               | Optional |
+| 1    | Mon | [List of Exceptions](src/FundamentalsDay01/Assignments/ListOfExceptions/README.md)                        | Optional |
 
 Java OOPDay02 (Day 2)
 
@@ -46,17 +46,24 @@ Java OOPDay02 (Day 2)
 
 Java OOPDay02 Advanced  (Day 3)
 
-| week | day | assignment                                                                          |     type |
-|------|----:|-------------------------------------------------------------------------------------|---------:|
-| 1    | Tue | [Spring Tools Suite (STS)](src/AdvancedOOPDay03/Reading/SpringToolsSuite/README.md) |  Reading |
-| 1    | Tue | [Packages](src/AdvancedOOPDay03/Reading/Packages/README.md)                         |  Reading |
-| 1    | Wed | [Zoo Keeper I](src/AdvancedOOPDay03/Assignments/ZooKeeperI/README.md)	              | Practice |
-| 1    | Wed | [Zoo Keeper II](src/AdvancedOOPDay03/Assignments/ZooKeeperII/README.md)	            |     Core |
-| 1    | Tue | [Spring Tools Suite (STS)](src/AdvancedOOPDay03/Reading/SpringToolsSuite/README.md) |  Reading |
-| 1    | Wed | CareSoft Interfaces	                                                                |     Core |
-| 1    | Wed | Abstract Art 	                                                                      | Optional |
+| week | day | assignment                                                                                 |     type |
+|------|----:|--------------------------------------------------------------------------------------------|---------:|
+| 1    | Tue | [Spring Tools Suite (STS)](src/AdvancedOOPDay03/Reading/SpringToolsSuite/README.md)        |  Reading |
+| 1    | Tue | [Packages](src/AdvancedOOPDay03/Reading/Packages/README.md)                                |  Reading |
+| 1    | Tue | [Four Pillars of OOP](src/AdvancedOOPDay03/Reading/FourPillarsofOOP/README.md)             |  Reading |
+| 1    | Tue | [Inheritance](src/AdvancedOOPDay03/Reading/Inheritance/README.md)                          |  Reading |
+| 1    | Wed | [Zoo Keeper I](src/AdvancedOOPDay03/Assignments/ZooKeeperI/README.md)	                     | Practice |
+| 1    | Wed | [Zoo Keeper II](src/AdvancedOOPDay03/Assignments/ZooKeeperII/README.md)	                   |     Core |
+| 1    | Tue | [Interface](src/AdvancedOOPDay03/Reading/Interface/README.md)                              |  Reading |
+| 1    | Tue | [Interface Implementation](src/AdvancedOOPDay03/Reading/InterfaceImplementation/README.md) |  Reading |
+| 1    | Tue | [Annotations](src/AdvancedOOPDay03/Reading/Annotations/README.md)                          |  Reading |
+| 1    | Wed | [CareSoft Interfaces](src/AdvancedOOPDay03/Assignments/CareSoftInterfaces/README.md)	      |     Core |
+| 1    | Tue | [Abstract](src/AdvancedOOPDay03/Reading/Abstract/README.md)                                |  Reading |
+| 1    | Wed | [Abstract Art](src/AdvancedOOPDay03/Assignments/AbstractArt/README.md) 	                   | Optional |
+| 1    | Tue | [Abstracts vs Interfaces](src/AdvancedOOPDay03/Reading/AbstractsVsInterfaces/README.md)    |  Reading |
+| 1    | Tue | [POJO and Java Beans](src/AdvancedOOPDay03/Reading/POJOAndJavaBeans/README.md)             |  Reading |
 
-OOPDay02 Hackathon
+OOPDay02 Hackathon (Day 4)
 
 | week | day | assignment          |     type |
 |------|----:|---------------------|---------:|
@@ -67,16 +74,19 @@ OOPDay02 Hackathon
 | 1    | Thu | DLL Assignment	     | Optional |
 | 1    | Thu | Tries Assignment 	  | Optional |
 
-Spring Fundamentals
+Spring Fundamentals (Day 5)
 
-| week | day | assignment               |     type |
-|------|----:|--------------------------|---------:|
-| 1    | Fri | Daikichi Routes	         | Practice |
-| 1    | Fri | Hello Human	             | Practice |
-| 1    | Fri | Daikichi Path Variables	 |     Core |
-| 1    | Fri | Hopper's Receipt	        | Practice |
-| 1    | Fri | 	Display Date	           | Optional |
-| 1    | Fri | 	Fruity Loops	           |     Core |
+| week | day | assignment                                                                                                  |     type |
+|------|----:|-------------------------------------------------------------------------------------------------------------|---------:|
+| 1    | Tue | [Overview](src/SpringFundamentalsDay05/Reading/Overview/README.md)                                          |  Reading |
+| 1    | Tue | [Start a New Spring Boot Project](src/SpringFundamentalsDay05/Reading/StartANewSpringBootProject/README.md) |  Reading |
+| 1    | Mon | [Hello World](src/SpringFundamentalsDay05/Reading/HelloWorld/README.md)                                     | Reading  |
+| 1    | Fri | Daikichi Routes	                                                                                            | Practice |
+| 1    | Fri | Hello Human	                                                                                                | Practice |
+| 1    | Fri | Daikichi Path Variables	                                                                                    |     Core |
+| 1    | Fri | Hopper's Receipt	                                                                                           | Practice |
+| 1    | Fri | 	Display Date	                                                                                              | Optional |
+| 1    | Fri | 	Fruity Loops	                                                                                              |     Core |
 
 Session & Forms
 
