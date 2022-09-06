@@ -123,11 +123,11 @@ Spring Data I (Day 7)
 | 2    | Mon | [DomainModelsAndValidationAnnotations](src/SpringMvcDay/Reading/DomainModelsAndValidationAnnotations/README.md) | Reading  |
 | 2    | Mon | [Repositories](src/SpringMvcDay/Reading/Repositories/README.md)                                                 | Reading  |
 | 2    | Mon | [Services](src/SpringMvcDay/Reading/Services/README.md)                                                         | Reading  |
-| 2    | Tue | [Books API](src/SpringMvcDay/Assignments/BooksApi/README.md)	                                                   | Practice |
+| 2    | Tue | [Books API](src/SpringMvcDay70/Assignments/BooksApi/README.md)	                                                 | Practice |
 | 2    | Mon | [AddingViewsGoodbyeApi](src/SpringMvcDay/Reading/AddingViewsGoodbyeApi/README.md)                               | Reading  |
 | 2    | Tue | [Rendering Books](src/SpringMvcDay/Assignments/BooksApi/README.md)	                                             | Practice |
-| 2    | Tue | [All Books](src/SpringMvcDay/Assignments/AllBooks/README.md)	                                                   | Practice |
-| 2    | Mon | [AddingACreateForm](src/SpringMvcDay/Reading/AddingACreateForm/README.md)                                       | Reading  |
+| 2    | Tue | [All Books](src/SpringMvcDay07/Assignments/AllBooks/README.md)	                                                 | Practice |
+| 2    | Mon | [AddingACreateForm](src/SpringMvcDayp/Reading/AddingACreateForm/README.md)                                      | Reading  |
 | 2    | Wed | [Save Travels](src/SpringMvcDay/Assignments/SaveTravels/README.md)	                                             | Practice |
 
 Full Stack
@@ -141,18 +141,18 @@ Full Stack
 
 Spring Data II
 
-| week | day | assignment         | type     |
-|------|----:|--------------------|----------|
-| 2    | Thu | [Dojos and Ninjas]   | Core     |
-| 2    | Thu | Student Roster 1:n | Optional |
+| week | day | assignment                                                                 | type     |
+|------|----:|----------------------------------------------------------------------------|----------|
+| 2    | Thu | [Dojos and Ninjas](src/OneToManyDay/Assignments/DojosAndNinjas/README.md)  | Core     |
+| 2    | Thu | [Student Roster 1:n](src/OneToManyDay/Assignments/StudentRoster/README.md) | Optional |
 
 Login and Registration
 
 | week | day | assignment                                                                                |     type |
 |------|----:|-------------------------------------------------------------------------------------------|---------:|
-| 2    | Fri | Login & Registration                                                                      | Practice |
-| 2    | Fri | Book Club	                                                                                |     Core |
-| 3    | Mon | Book Broker	                                                                              | Practice |
+| 2    | Fri | [Login & Registration](src/LoginRegDay10/Assignments/LoginRegistration/README.md)         | Practice |
+| 2    | Fri | [Book Club](src/LoginRegDay10/Assignments/LoginRegistration/README.md)	                   |     Core |
+| 3    | Mon | [Book Broker](src/FullSpringDay11/Assignments/BookBroker/README.md)	                      | Practice |
 | 3    | Mon | [Products and Categories](src/FullSpringDay/Assignments/ProductsAndCategories/README.md)	 | Practice |
 | 3    | Tue | Dojo Overflow	                                                                            | Optional |
 | 3    | Tue | Student Roster n:m	                                                                       | Optional |

@@ -4,6 +4,9 @@
 - Introduction to data types
 - Introduction to primitive versus object types
 
+variable
+: a piece of memory to which we can assign data to make it easy to reuse.
+
 ## Type Declaration
 
 type declaration
@@ -25,7 +28,8 @@ type declaration
 
 ### Object Types & "Wrapper Classes"
 
-
+wrapper class
+: a more robust version that adds functionality to a primitive type and makes it easier to use in conjunction with other object types or data structures
 
 
 
