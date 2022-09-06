@@ -1,5 +1,8 @@
 package FundamentalsDay01.Assignments.CafeJava;
 
+/**
+ * This code comes from the platform
+ */
 public class CafeJava {
     public static void main(String[] args) {
         // APP VARIABLES

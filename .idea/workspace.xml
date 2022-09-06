@@ -1,20 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="add from windows">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/AlfredBot/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/FixedArrays/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Modularization/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Strings/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/TypeCasting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/AlfredBot/AlfredQuotes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/AlfredBot/class-use/AlfredQuotes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/AlfredBot/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/AlfredBot/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/AlfredBot/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/CafeJava/CafeJava.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/CafeJava/class-use/CafeJava.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/CafeJava/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/CafeJava/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/CafeJava/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/ArrayLists/ArrayListDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/ArrayLists/class-use/ArrayListDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/ArrayLists/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/ArrayLists/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/ArrayLists/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Methods/Methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Methods/class-use/Methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Methods/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Methods/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Methods/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Strings/Strings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Strings/class-use/Strings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Strings/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Strings/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Strings/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/SwitchStatement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/Ternary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/class-use/SwitchStatement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/class-use/Ternary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/SwitchAndTernaryOperators/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/AlfredBot/AlfredQuotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/CafeBusinessLogic/CafeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/CafeBusinessLogic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/Puzzling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HelloWorld/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Loops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Maps/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Methods/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringFundamentalsDay05/Assignments/DaikichiRoutes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/HowDoesJavaWork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/WhyJava.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/SolutionOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/SolutionOne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/class-use/SolutionOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/class-use/SolutionOne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Assignments/FirstJavaProgram/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/class-use/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/class-use/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/HelloWorld/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/Variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/Variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/class-use/Variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/class-use/Variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/Variables/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/WhyJava.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/WhyJava.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/class-use/WhyJava.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/class-use/WhyJava.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FundamentalsDay01/Reading/WhyJava/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/docs/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-3.5.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedOOPDay03/Reading/Packages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedOOPDay03/Reading/Packages/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/AlfredBot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/AlfredBot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/CafeJava/CafeJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/CafeJava/CafeJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/FirstJavaProgram/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/FirstJavaProgram/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/FirstJavaProgram/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/FirstJavaProgram/SolutionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/FixedArrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/FixedArrays/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HelloWorld/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HelloWorld/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/HowDoesJavaWork/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Modularization/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Modularization/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/SwitchAndTernaryOperators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/SwitchAndTernaryOperators/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/TypeCasting/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/TypeCasting/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Variables/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Variables/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/WhyJava/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +161,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/tyler/Documents/java_cd_id&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/tyler/Documents/java_cd_id",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -192,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662256584540</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add from windows">
+      <created>1662344660669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662344660669</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

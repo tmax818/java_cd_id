@@ -1,7 +1,38 @@
-# Variables
+# [Variables](https://login.codingdojo.com/m/315/9299/62836)
+
+## Objectives:
+- Introduction to data types
+- Introduction to primitive versus object types
+
+## Type Declaration
+
+type declaration
+: helps with speed and safety
+
+
+## Default Values if Uninitialized
+
+
+## Naming Conventions
+
+
 
 
 ## Data types
+
+### Primitive Types
+
+
+### Object Types & "Wrapper Classes"
+
+
+
+
+
+
+
+
+
 
 | data type | helper class |
 |-----------|--------------|

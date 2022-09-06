@@ -6,6 +6,8 @@ package FundamentalsDay01.Reading.HelloWorld;
  */
 public class Test {
     /**
+     *
+     * This is the code for hello world:
      * <pre>
      *     {@code
      *         public static void main(String[] args) {
