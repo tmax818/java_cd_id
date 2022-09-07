@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/MapOfHashmatique/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Exceptions/README.md" afterDir="false" />
+    <list default="true" id="fbd7e641-3168-41cf-aac0-a11bf385ecd8" name="Changes" comment="update from dell">
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Assignments/ListOfExceptions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPDay02/Reading/This/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringFundamentalsDay05/Reading/Overview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpringFundamentalsDay05/Reading/StartANewSpringBootProject/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ArrayLists/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/ConditionalsAndOperators/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Variables/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentalsDay01/Reading/Variables/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661706663782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update from dell">
+      <created>1662501346974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662501346974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +208,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="add cafejava" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cafejava" />
+    <MESSAGE value="update from dell" />
+    <option name="LAST_COMMIT_MESSAGE" value="update from dell" />
   </component>
 </project>

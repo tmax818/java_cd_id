@@ -29,20 +29,20 @@ Java Fundamentals (Day 1)
 
 Java OOPDay02 (Day 2)
 
-| week | day | assignment                                                                                                   |     type |
-|------|----:|:-------------------------------------------------------------------------------------------------------------|---------:|
-| 1    | Tue | [Overview](src/OOPDay02/Reading/Overview/README.md)                                                          |  Reading |
-| 1    | Tue | [Objects and Classes](src/OOPDay02/Reading/ObjectsAndClasses/README.md)                                      |  Reading |
-| 1    | Tue | [Member Variables](src/OOPDay02/Reading/MemberVariables/README.md)                                           |  Reading |
-| 1    | Tue | [Orders & Items](src/OOPDay02/Assignments/OrdersAndItems/README.md)	                                         | Practice |
-| 1    | Tue | [Getters, Setters & Access Modifiers](src/OOPDay02/Reading/GettersSettersAndAccessModifiers/README.md)       |  Reading |
-| 1    | Tue | [Constructors & Overloading](src/OOPDay02/Reading/ConstructorsAndOverloading/README.md)                      |  Reading |
-| 1    | Tue | [this](src/OOPDay02/Reading/this/README.md)                                                                  |  Reading |
-| 1    | Tue | [More on Methods](src/OOPDay02/Reading/MoreOnMethods/README.md)                                              |  Reading |
-| 1    | Tue | [Barista's Challenge](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                 | Practice |
-| 1    | Tue | [Static](src/OOPDay02/Reading/Static/README.md)                                                              |  Reading |
-| 1    | Tue | [Bank Account](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                        |     Core |
-| 1    | Tue | [Coffeedore 64](src/OOPDay02/Assignments/Coffeedore64/README.md)	                                            | Practice |
+| week | day | assignment                                                                                             |     type |
+|------|----:|:-------------------------------------------------------------------------------------------------------|---------:|
+| 1    | Tue | [Overview](src/OOPDay02/Reading/Overview/README.md)                                                    |  Reading |
+| 1    | Tue | [Objects and Classes](src/OOPDay02/Reading/ObjectsAndClasses/README.md)                                |  Reading |
+| 1    | Tue | [Member Variables](src/OOPDay02/Reading/MemberVariables/README.md)                                     |  Reading |
+| 1    | Tue | [Orders & Items](src/OOPDay02/Assignments/OrdersAndItems/README.md)	                                   | Practice |
+| 1    | Tue | [Getters, Setters & Access Modifiers](src/OOPDay02/Reading/GettersSettersAndAccessModifiers/README.md) |  Reading |
+| 1    | Tue | [Constructors & Overloading](src/OOPDay02/Reading/ConstructorsAndOverloading/README.md)                |  Reading |
+| 1    | Tue | [this](src/OOPDay02/Reading/This/README.md)                                                            |  Reading |
+| 1    | Tue | [More on Methods](src/OOPDay02/Reading/MoreOnMethods/README.md)                                        |  Reading |
+| 1    | Tue | [Barista's Challenge](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                           | Practice |
+| 1    | Tue | [Static](src/OOPDay02/Reading/Static/README.md)                                                        |  Reading |
+| 1    | Tue | [Bank Account](src/OOPDay02/Assignments/BaristasChallenge/README.md)	                                  |     Core |
+| 1    | Tue | [Coffeedore 64](src/OOPDay02/Assignments/Coffeedore64/README.md)	                                      | Practice |
 
 Java OOPDay02 Advanced  (Day 3)
 
@@ -123,11 +123,11 @@ Spring Data I (Day 7)
 | 2    | Mon | [DomainModelsAndValidationAnnotations](src/SpringMvcDay/Reading/DomainModelsAndValidationAnnotations/README.md) | Reading  |
 | 2    | Mon | [Repositories](src/SpringMvcDay/Reading/Repositories/README.md)                                                 | Reading  |
 | 2    | Mon | [Services](src/SpringMvcDay/Reading/Services/README.md)                                                         | Reading  |
-| 2    | Tue | [Books API](src/SpringMvcDay70/Assignments/BooksApi/README.md)	                                                 | Practice |
-| 2    | Mon | [AddingViewsGoodbyeApi](src/SpringMvcDay/Reading/AddingViewsGoodbyeApi/README.md)                               | Reading  |
+| 2    | Tue | [Books API](src/SpringMvcDay07/Assignments/BooksApi/README.md)	                                                 | Practice |
+| 2    | Mon | [AddingViewsGoodbyeApi](src/SpringMvcDay/Reading/07/README.md)                                                  | Reading  |
 | 2    | Tue | [Rendering Books](src/SpringMvcDay/Assignments/BooksApi/README.md)	                                             | Practice |
 | 2    | Tue | [All Books](src/SpringMvcDay07/Assignments/AllBooks/README.md)	                                                 | Practice |
-| 2    | Mon | [AddingACreateForm](src/SpringMvcDayp/Reading/AddingACreateForm/README.md)                                      | Reading  |
+| 2    | Mon | [AddingACreateForm](src/SpringMvcDay07/Reading/AddingACreateForm/README.md)                                     | Reading  |
 | 2    | Wed | [Save Travels](src/SpringMvcDay/Assignments/SaveTravels/README.md)	                                             | Practice |
 
 Full Stack
