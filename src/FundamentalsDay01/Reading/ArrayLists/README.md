@@ -11,6 +11,8 @@
 
 ## Generics `<T>`
 
+generics
+: a way to tell the compiler what kind of objects a collection can contain
 
 ## < Objects Only >
 
