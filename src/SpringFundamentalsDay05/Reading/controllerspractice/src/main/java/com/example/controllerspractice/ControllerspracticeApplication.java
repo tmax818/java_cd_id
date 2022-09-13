@@ -1,4 +1,4 @@
-package com.example.controllerspractice;
+package SpringFundamentalsDay05.Reading.controllerspractice.src.main.java.com.example.controllerspractice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
